@@ -5,7 +5,7 @@
 [![Streamlit App](https://img.shields.io/badge/Web%20App-Streamlit-FF4B4B)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Live Demo:** *(Add your Streamlit Cloud link here)*
+> **Live Demo:** [Click here to launch the Web App](https://body-performance-ai.streamlit.app/)
 
 ## 📌 Project Overview
 This project applies end-to-end Machine Learning to classify human physiological performance based on demographic and biomechanical metrics. Using a dataset of 13,393 individuals, we developed a robust classification pipeline to categorize individuals into performance tiers, achieving **89% accuracy on binary classification** and **83.4% on a 3-tier health risk assessment** using a tuned **XGBoost** model.
