@@ -16,7 +16,7 @@ venv.bak/
 *.zip
 
 # Streamlit config/cache
-.streamlit/
+.streamlit/secrets.toml
 *.pyc
 
 # IDEs and OS files
